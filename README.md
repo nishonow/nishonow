@@ -32,8 +32,6 @@ I'm a passionate full-stack developer who loves building elegant and efficient s
 
 ## 📊 GitHub Analytics
 
-![nishonow's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishonow&show_icons=true&theme=react&include_all_commits=true&count_private=true)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishonow&layout=compact&theme=react&hide_border=true)
 
 ---
