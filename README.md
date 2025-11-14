@@ -1,15 +1,10 @@
-# Hi there 👋, I'm Nisho Now!
-
-![GitHub followers](https://img.shields.io/github/followers/nishonow?style=social)
-![GitHub stars](https://img.shields.io/github/stars/nishonow?style=social)
+# Hi there 👋, I'm Ilyosbek Nishonov!
 
 ---
 
 ## 🚀 About Me
 
 I'm a passionate full-stack developer who loves building elegant and efficient solutions to real-world problems. I am constantly exploring new technologies and striving to write clean, maintainable code.
-
-- 🔭 I’m currently working on a few personal projects involving **React** and **Python**.
 
 ---
 
